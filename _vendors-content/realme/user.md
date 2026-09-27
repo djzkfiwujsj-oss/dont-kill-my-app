@@ -1,6 +1,7 @@
 ---
 manufacturer: 
-    - realme
+    - google
+    
 
 ---
 
